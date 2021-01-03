@@ -1,10 +1,10 @@
 # Wikipedia-Scraper
- 
+***
 ## Description
 
 This program will print a short introduction of the topics of the list that you select.
 
-
+***
 ## Dependences
 
 Install these libraries with pip:
@@ -14,7 +14,7 @@ Install these libraries with pip:
 * pyfiglet
 * colorama
 
-
+***
 ## Usage
 
 **Step 1**: Open the program in the terminal:
