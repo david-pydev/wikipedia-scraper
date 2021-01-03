@@ -27,7 +27,7 @@ Install these libraries with pip:
 
 **Step 3**: Select the language of the results (only english and portuguese are avaliable at this time):
 
-`=> english (enter '2')`
+`=> english (enter '1')`
 `=> portuguese (enter '2')`
  
  `>> 1`
