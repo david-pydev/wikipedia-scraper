@@ -33,4 +33,4 @@ Install these libraries with pip:
  
  **Step 4**: Wait for results in the language that you selected (in this caso, english, or nunber 1)
  
- ![](https://raw.githubusercontent.com/david-pydev/wikipedia-scraper/main/example_img.JPG?token=AQ7O5Y43AI2W3SFGJHIGG6276JAOG)
+ ![](https://github.com/david-pydev/wikipedia-scraper/blob/main/example_img.JPG)
