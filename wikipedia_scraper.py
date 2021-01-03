@@ -114,9 +114,9 @@ def main():
         except FileNotFoundError:
             print(Fore.RED + "\n Error: file or directory not found. Try another path.")
 
-    # choose the lenguage of article.
+    # choose the language of article.
     while True:
-        leng = input("\n >> Choose lenguage: \n\n => english (enter '1') \n => portuguese (enter '2') \n\n >> ")
+        leng = input("\n >> Choose language: \n\n => english (enter '1') \n => portuguese (enter '2') \n\n >> ")
         if leng == 'q':
             print("\n\n    Come back anytime :)\n")
             exit()
