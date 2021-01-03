@@ -4,6 +4,16 @@
 
 This program will print a short introduction of the topics of the list that you select.
 
+## Dependences
+
+Install these libraries with pip:
+
+* requests
+* BeautifulSoup4
+* pyfiglet
+* colorama
+
+
 ## Usage
 
 **Step 1**: Open the program in the terminal:
