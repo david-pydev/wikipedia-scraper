@@ -4,6 +4,7 @@
 
 This program will print a short introduction of the topics of the list that you select.
 
+
 ## Dependences
 
 Install these libraries with pip:
@@ -31,6 +32,6 @@ Install these libraries with pip:
  
  `>> 1`
  
- **Step 4**: Wait for results in the language that you selected (in this caso, english, or nunber 1)
+ **Step 4**: Wait for results in the language that you selected (in this case, english, or number 1)
  
  ![](https://github.com/david-pydev/wikipedia-scraper/blob/main/example_img.JPG)
